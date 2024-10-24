@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-I have over 6+ years of experience in Full stack and Blockchain development.
+I have over 8+ years of experience in Full stack development.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
 back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
-
+and project management.<br>
+<h2>Skills & Experience</h2><br>
+📕 React / Nextjs / Angular / TailwindCSS / MUI / AntD / Bootstrap / Sass / PrimeNG<br>
+💻 Node / Express / Typescript / GraphQL / Redux(RTK) / SQL / MongoDB / Prisma<br>
+📱  Docker / AWS / Redis (Micro-service)<br>
 <div align="center">
 <img src="./profile-season-animate.svg"/>
 </div> 
